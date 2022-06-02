@@ -1,0 +1,58 @@
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+/*main styles*/
+.main {
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: #E5E5E5;
+    width: 1200px;
+    margin: 0 auto;
+}
+/*main-content styles*/
+.main-content{
+    background-color: #FFFFFF;
+}
+/*about styles*/
+.about{
+    background-color: yellow;
+}
+/*project styles*/
+.project{
+ background-color: chocolate;   
+ margin-top: 100px;
+ margin-bottom: 300px;
+ margin-left: 60px;
+ margin-right: 90px; 
+}
+.project-title{
+    font-size: 45px;
+    color: blue;
+}
+/*work styles*/
+.work{
+    padding-top: 100px;
+    padding-bottom: 50px;
+    margin-left: 20px;
+    margin-right: 40px;
+    background-color:cyan ;
+}
+.education{
+    background-color:darkblue ;
+}
+/*sidebar styles*/
+.sidebar{
+    background-color: #1E2939;
+    
+}
+.tech-skills{
+    color: #FFFFFF;
+    padding: 0;
+    margin-left: 17px;
+}
+.SOFT-SKILLS{
+    color: #FFFFFF;
+    padding: 0;
+    margin-left: 17px;
+}
